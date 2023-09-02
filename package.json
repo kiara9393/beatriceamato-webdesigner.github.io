@@ -2,7 +2,7 @@
   "name": "beatriceamato-webdesigner.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://beatriceamato-webdesigner.github.io/beatriceamato-webdesigner.github.io",
+  "homepage": "https://beatriceamato-webdesigner.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
