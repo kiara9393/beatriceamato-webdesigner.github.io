@@ -2,9 +2,8 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './routes/Home/Home';
 import Portfolio from './routes/Portfolio/Portfolio';
-import './App.css';
 
-function App() {
+function RouteList() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
@@ -13,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default RouteList;

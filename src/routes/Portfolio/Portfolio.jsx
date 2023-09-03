@@ -1,8 +1,12 @@
 import React from 'react';
-import './Portfolio.css';
+import './Portfolio.scss';
 
 function Portfolio() {
-  return <div>Portfolio</div>;
+  return (
+    <button type="button" className="btn btn-primary">
+      Primary
+    </button>
+  );
 }
 
 export default Portfolio;
