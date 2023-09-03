@@ -1,26 +1,55 @@
-# Getting Started with Create React App
+# beatriceamato-webdesigner.github.io
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I am Beatrice Amato (Art-Director and Graphic Web Designer).
+This project is a personal site where you can get to know me better, download my resume, see my portfolio with projects and clients I have personally followed and finally you can contact me. 
+The Graphics of this site, cv and portfolio, are entirely taken care of by me with Figma.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### `npm start`
+### Prerequisites
 
+The things you need before installing the software.
+
+* Node v18+
+
+### Installation
+
+A step by step guide that will tell you how to get the development environment up and running.
+
+* Clone the repo:
+```
+https://github.com/beatriceamato-webdesigner/beatriceamato-webdesigner.github.io.git
+```
+
+* Install NPM packages:
+```
+npm install
+```
+
+## Usage
+
+A few examples of useful commands and/or tasks.
+
+```
+npm start
+```
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
+```
+npm test
+```
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
+```
+npm run build
+```
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -29,42 +58,39 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+npm run deploy
+```
+Build the project and deploy on branch gh-pages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### [Demo 💥](https://beatriceamato-webdesigner.github.io)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Branches
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+* Master: main
+* Feature: feature
+* Development: develop
+* Bugfix: bugFix
+* Deploy: gh-pages
 
-## Learn More
+## Team
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<b>Chiara Amato (Web Developer React Frontend)</b>
+<a href="https://github.com/kiara9393">
+  <img src="https://github.com/account?size=50">
+</a>
 
-### Code Splitting
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+## License
+>You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the terms of the **MIT** license.
