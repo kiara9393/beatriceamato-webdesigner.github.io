@@ -1,8 +1,14 @@
+import { Routes, Route} from "react-router-dom";
+import Home from './routes/Home/Home';
+import Portfolio from './routes/Portfolio/Portfolio';
 import './App.css';
 
 function App() {
   return (
-    <div className='img__home'></div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/portfolio" element={<Portfolio />} />
+    </Routes>
   );
 }
 
